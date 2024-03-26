@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Network Engineer
 - 🌱 I’m currently learning Cyber Security
 - 🤔 I’m looking for help with Web Application Pentesting
-- 💬 You can ask me about Developing | Programming & Hacking 
+- 💬 You can ask me about Developing | Programming & Hacking
+- 👨‍🏫 Currently, I'm a Web Application Pentest tutorial guide for techies, and I'm sharing my knowledge on Bug Bounty Live for free.
+ 
