@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My name is Phyo Myat Han
-# I'm Cyber Security | InfoSec | NOC Engineer 🤗
+# My name is Phyo Myat Han
+## I'm Cyber Security | InfoSec | NOC Engineer 🤗
 
+- 🔭 I’m currently working on Network Engineer
+- 🌱 I’m currently learning Cyber Security
+- 🤔 I’m looking for help with Web Application Pentesting
+- 💬 You can ask me about Developing | Programming & Hacking 
