@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # My name is Phyo Myat Han
-## I'm Cyber Security | InfoSec | NOC Engineer 🤗
+## I'm Cyber Security | InfoSec 🤗
 
 - 🔭 I’m currently working on Network Engineer
 - 🌱 I’m currently learning Cyber Security
