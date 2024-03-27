@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 
  ### What I'm doing?
  I also created many labs and taught my own labs and courses systematically.
+ - SQLi-Lab
+ - sqlilabs
+ - XSS Challenge
+ - Command Injection Challenge
